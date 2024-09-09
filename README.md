@@ -1,0 +1,1 @@
+This code predicts the risk of breast cancer in premenopausal women using NHIS data from 2005-2018, starting with data visualization to understand the characteristics of the sample population, followed by the construction of a logistic regression model as well as a random forest model
